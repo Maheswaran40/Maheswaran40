@@ -36,18 +36,18 @@
   </br>
   <p>
     <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
-   <img src="assets/swiper-img.png" alt="Swiper.js" height="50" />
-   <img src="assets/reactboot-img.png" alt="Swiper.js" height="50" />
+   <img src="assets/swiper-img.png" alt="Swiper.js" width="48" height="48" />
+   <img src="assets/reactboot-img.png" alt="Swiper.js" width="48" height="48" />
    
   </p>
 
 ## Version Control:
 - *Git* | *GitHub*
   </br>
-  <img width="50" height="50" src="https://img.icons8.com/ios/50/github.png" alt="github"/>
+  <img width="50" height="50" src="https://img.icons8.com/nolan/50/github.png" alt="github"/>
 
 ## 🌟 Projects & Experience
-I have worked on several *MERN stack projects*, building scalable and efficient web applications. My experience ranges from simple applications to complex projects, all aimed at solving real-world problems.
+I'm currently learning the MERN Stack and have worked on several hands-on projects that reflect both my learning progress and practical application of skills.My experience ranges from simple applications to complex projects, all aimed at solving real-world problems.
 
 ## 🚀 Let's Build Something Amazing Together!
 Feel free to reach out to me for collaboration or any exciting opportunities in web development. I'm always eager to learn and grow in the world of technology!

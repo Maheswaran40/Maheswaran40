@@ -1,6 +1,6 @@
-## Hi there 👋 it's me Mahes
+## Hi there 👋 it's me Maheswaran
 #### BCA Graduate 
-- 🌱 I’m currently learning ...MERN STACK
+- 🌱 I’m currently learning MERN STACK
 
 <!--
 **Maheswaran40/Maheswaran40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

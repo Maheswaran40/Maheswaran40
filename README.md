@@ -36,7 +36,7 @@
   </br>
   <p>
     <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
-   <img src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" alt="Swiper.js" height="50" />
+   <img src="https://cdn.jsdelivr.net/gh/nolimits4web/swiper@11/assets/swiper-logo.svg" alt="Swiper.js" height="50" />
    <img src="https://swiperjs.com/images/shared/swiper-logo.png" alt="Swiper.js" height="50" />
    
   </p>

@@ -12,13 +12,21 @@
 - *HTML* | *CSS* | *Bootstrap*  
 - *JavaScript* | *React.js*
 </br>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/>
+<p>
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png" />
+</p>
+
 
 
 ## Backend Technologies:
 - *Node.js* | *Express.js*  
 - *MongoDB* | *Mongoose*
--   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
+- </br>
+-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
 
 ## Tools:
 - *VS Code* 

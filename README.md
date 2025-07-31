@@ -38,6 +38,7 @@
     <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
    <img src="https://swiperjs.com/images/shared/swiper-logo.png" alt="Swiper.js" height="50" />
    <img src="https://swiperjs.com/images/shared/swiper-logo.png" alt="Swiper.js" height="50" />
+    <img src="https://img.icons8.com/color/48/000000/react-native.png" height="40"/>
   </p>
 
 ## Version Control:

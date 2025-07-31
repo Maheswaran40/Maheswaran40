@@ -36,14 +36,14 @@
   </br>
   <p>
     <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
-    <img width="48" height="48" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAV1BMVEVHcEwAmv8Anv8AtP8Asf8As/8ArP8An/8Anv8Aq/8AnP8Apf8Anf8Ai/8Arv8Amf8Akv8Ahv8Aq/8Aqf8Aiv8Apv8Ajv8AoP8Akf8Amf8AlP8Am/8Al//Qs0mdAAAAGnRSTlMAMITI7f+aPmMJF+G25/9Syf///////////cLiw5QAAADxSURBVHgBXM4FgoUgAADRoRGU+F33P+euLT7bUYCNkEobo5V1nHltZsp3tEJckg2A74fAxiWT/pm+g1zqyO1tlkGO4VjDZeYQ9SAwitdJj7jdbnXc6ngeAPx95hhuDQ/oJQoerQHEc5Epr5ZArjESTlFSlvZ+etynUYjfjUD8jgbe352ji3v7vnn/DiT0382boRmpQNlipJwXwXNVkK+jz8Pi1ygRr8bjQbdGAcOjJbhPnhrwtxbhPvMAQ9ME9jqJjELdDYF8mQUmbmsefJo5ONaSoVPnBmEovoNgTTKjGGh1XpmZ9pw5+zdIdmBihAsBANteK5DtW1SfAAAAAElFTkSuQmCC" alt="Swiperjs-img"/>
-    <img width="48" height="48" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAV1BMVEVHcEwAmv8Anv8AtP8Asf8As/8ArP8An/8Anv8Aq/8AnP8Apf8Anf8Ai/8Arv8Amf8Akv8Ahv8Aq/8Aqf8Aiv8Apv8Ajv8AoP8Akf8Amf8AlP8Am/8Al//Qs0mdAAAAGnRSTlMAMITI7f+aPmMJF+G25/9Syf///////////cLiw5QAAADxSURBVHgBXM4FgoUgAADRoRGU+F33P+euLT7bUYCNkEobo5V1nHltZsp3tEJckg2A74fAxiWT/pm+g1zqyO1tlkGO4VjDZeYQ9SAwitdJj7jdbnXc6ngeAPx95hhuDQ/oJQoerQHEc5Epr5ZArjESTlFSlvZ+etynUYjfjUD8jgbe352ji3v7vnn/DiT0382boRmpQNlipJwXwXNVkK+jz8Pi1ygRr8bjQbdGAcOjJbhPnhrwtxbhPvMAQ9ME9jqJjELdDYF8mQUmbmsefJo5ONaSoVPnBmEovoNgTTKjGGh1XpmZ9pw5+zdIdmBihAsBANteK5DtW1SfAAAAAElFTkSuQmCC" alt="reactBootstrap-img"/>
+   <img src="https://swiperjs.com/images/shared/swiper-logo.svg" alt="Swiper.js" height="50" />
+   <img src="https://swiperjs.com/images/shared/swiper-logo.png" alt="Swiper.js" height="50" />
   </p>
 
 ## Version Control:
 - *Git* | *GitHub*
   </br>
-  <img width="32" height="32" src="https://img.icons8.com/windows/32/github.png" alt="github"/>
+  <img width="50" height="50" src="https://img.icons8.com/ios/50/github.png" alt="github"/>
 
 ## 🌟 Projects & Experience
 I have worked on several *MERN stack projects*, building scalable and efficient web applications. My experience ranges from simple applications to complex projects, all aimed at solving real-world problems.

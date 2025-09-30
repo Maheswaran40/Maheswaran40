@@ -47,7 +47,7 @@
   <img width="50" height="50" src="https://img.icons8.com/nolan/50/github.png" alt="github"/>
 
 ## 🌟 Projects & Experience
-I'm currently learning the MERN Stack and have worked on several hands-on projects that reflect both my learning progress and practical application of skills.My experience ranges from simple applications to complex projects, all aimed at solving real-world problems.
+I am currently working as a MERN Stack Developer at iLife Academy. I have built several hands-on projects that showcase both my learning journey and practical application of skills, ranging from simple applications to complex solutions for real-world problems. You can check out one of my projects here: [Maxara – The Greatest Market](https://maxara-the-greatest-market.netlify.app/)
 
 ## 🚀 Let's Build Something Amazing Together!
 Feel free to reach out to me for collaboration or any exciting opportunities in web development. I'm always eager to learn and grow in the world of technology!

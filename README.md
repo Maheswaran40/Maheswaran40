@@ -1,7 +1,7 @@
 ## Hi there 👋 it's me Maheswaran
 
 #### BCA Graduate 
-- 🌱 MERN STACK DEVELOPER in ILIFE ACADEMY
+- 🌱 MERN STACK DEVELOPER
 - 😄 Pronouns: Techie
 - 📫 How to reach me :
 <br/>[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/maheswaran-s4074/)

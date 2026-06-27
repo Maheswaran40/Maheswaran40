@@ -50,13 +50,13 @@
 I am currently working as a MERN Stack Developer at iLife Academy. I have built several hands-on projects that showcase both my learning journey and practical application of skills, ranging from simple applications to complex solutions for real-world problems. You can check out one of my projects here: [Maxara – The Greatest Market](https://maxara-greatest-market.netlify.app/)
 
 ## 🚀 Let's Build Something Amazing Together!
-Feel free to reach out to me for collaboration or any exciting opportunities in web development. I'm always eager to learn and grow in the world of technology!
+Feel free to reach out to me for collaboration or any exciting opportunities in web development. I'm always eager to learn and grow in the world of technology!  [My Portfolio](https://ravanan.netlify.app/)
 
 ---
 
 Thanks for checking out my profile! 😊
 <!--
-**Maheswaran40/Maheswaran40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.  [My Portfolio](https://ravanan.netlify.app/)
+**Maheswaran40/Maheswaran40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
 Here are some ideas to get you started:
 

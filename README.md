@@ -56,7 +56,7 @@ Feel free to reach out to me for collaboration or any exciting opportunities in 
 
 Thanks for checking out my profile! 😊
 <!--
-**Maheswaran40/Maheswaran40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. <a href="https://ravanan.netlify.app/">portfolio</a>
+**Maheswaran40/Maheswaran40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.  [My Portfolio](https://ravanan.netlify.app/)
 
 Here are some ideas to get you started:
 
